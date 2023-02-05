@@ -1,0 +1,198 @@
+
+
+                              Date :02_11_2021 and time : 06.45
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    karan                 124                     Soft                       12       24578.00        26                 BUkssora
+
+                              Date :02_11_2021 and time : 06.50
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    rahul                 125                  teacher                       12      124578.00        26                  Buksora
+
+                              02_11_2021 and 06.55
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    karan                 124                 software                       12      125645.00        26                  Buksora
+
+                             2.            karan_purohit                 125                 engineer                       12      124578.00        26                  Buksora
+
+                              Dte :20_11_0211
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.             karan_maurya                  12                 soft_enf                       12      124578.00        26                  buksora
+
+                             2.                   kishna                  12              businessman                       12      124578.00        26                  buksora
+
+                              Date :03_11_2021 Time :04.26
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                     Aman                 124                       CA                       12      124578.00        26                  uksoea
+
+                              Date : 03_11_2021 Time : 04.29
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.             karan_Maurya                 124                 Soft_eng                       12      124578.00        26                  Buksora
+
+                             2.              Ayush_Pawar                 125                   design                       12      124569.00        26                  Mansori
+
+                              Dtae 06_11_2021 Time 07.49
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    karan                 123                       ca                       12       12456.00        26                  Buksora
+
+                              Dtae 08_11_2021 Time 06.59
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    karan                 123                       sa                       12      124564.00        26                  Buksora
+
+                              Date : 27_11_2021 Time : 6.59
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    Karan                 123             Software_Eng                       12      125953.00        26                  Buksoar
+
+                             2.                     Aman                 124                       CA                       12      124568.00        12                  Buksora
+
+                              Date: 22/11/2021 Time : 19.41.32
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.             Karan Maurya                  12                       12                       12      124578.00        26                  Buksira
+
+                             2.               Aman Verma                  12                       12                       26       12458.00        26                  Buksora
+
+                              Date: 12/11/2021 Time : 6.3.47
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    karan                  12            Software Eng.                       12       12456.00        19                  Buksora
+
+                             2.                Amn Veram                  12                       Ca                       16      124578.00        20                  Buksora
+
+                             3.              Rahul Verma                  12                  teacher                       12       11245.00        26                  Buksora
+
+                              Date: 28/11/2021 Time : 09.12.35
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.             Karan Maurya                 123                 Soft Eng                       12      124568.00        20                  Buksora
+
+                             2.                   Sparsh                 124                      CEO                       12      124568.00        19                 Pilibhit
+
+                             3.                     AMan                 124                 Designer                       12      124568.00        20                  Buksora
+
+                              Date: 28/11/2021 Time : 9.30.30
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    karan                 124                       cs                       12       12458.00        26                  buksoea
+
+                             2.                     Aman                1245                       xa                       12      124568.00        20                  Buksrao
+
+                              Date: 12/12/2021 Time : 26.1
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                   karsan                 154                       hf                       12        1245.00        26                     cghh
+
+                              Date: 4/12/2021 Time : 09.31.05
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.             Karan MAurya                 124                 Soft Eng                       12       12458.00        26                  Buksora
+
+                             2.                 Shubham                  125                      CEO                       12      124578.00        26                  Banaras
+
+                              Date: 12/12/2021 Time : 09.23.12
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address
+
+                             1.                    karna                 122                       ss                       12       12445.00        12                      sdd
+
+                              Date: 04/12/2021 Time : 19.24.23
+
+
+                    Serial no.                     Name                Code              Designation       Year of experience         Salary       Age                  Address           Status of loan
+
+                             1.                    karan                 124                       cs                       12       12345.00        26                  Buksora           No loan issues
+
+                              Date: 11/12/2021 Time : 18.31
+
+
+Serial no.                Name                Code              Designation       Year of experience         Salary       Age                  Address         Loan Status
+
+         1.        Karan Maurya                 124                      cse                       12      125448.00        26                  Buksora                  No
+
+         2.       Kishan Maurya                 125              Businessman                       12       12458.00        26                  Buksora                  No
+
+         3.          Aman Verma                 127                       CA                       12      124564.00        26                  Buksora                  No
+
+         4.         Rahul Verma                 128                  Teacher                       12       12454.00        26                  Buksora                  No
+
+                              Date: 121212 Time : 122
+
+
+          Serial no.                Name                Code              Designation       Year of experience         Salary       Age                  Address         Loan Status
+
+                   1.        Karan MAURYA                 124                      cse                       12       23594.00        45                 xsdslkjn               kjsbd
+
+                              Date: 12/12/21 Time : 19.20
+
+
+          Serial no.                Name                Code              Designation       Year of experience         Salary       Age                  Address         Loan Status
+
+                   1.               karan                 123                      cse                       12      125448.00        26                  Buksora                  No
+
+                   2.              Kishan                 125                     Busi                       12     1245465.00        26                  Buksora                  No
+
+                   3.          Aman Verma                 126                       CA                       12      124589.00        26                  Buksora                  No
+
+                              Date: 121 Time : 121
+
+
+          Serial no.                Name                Code              Designation       Year of experience         Salary       Age                  Address         Loan Status
+
+                   1.               Karan                 124                      cse                       12        1000.00        12                  Buksora                  No
+
+                              Date: 24/12/2021 Time : 16.28
+
+
+          Serial no.                Name                Code              Designation       Year of experience         Salary       Age                  Address         Loan Status
+
+                   1.               karan                  12                       12                       12          12.00         2                       12                  12
+
+                   2.                  sa                  54                      45a                        0           5.00         5                        5                   5
+
+                              Date: 30/01/2022 Time : 08.08
+
+
+          Serial no.                Name                Code              Designation       Year of experience         Salary       Age                  Address         Loan Status
+
+                   1.               Karan                 123                       CA                       12        2466.00        26                  Buksora                  No
+
+                   2.                Ajay                 124                       CS                       12      124578.00        26                 PilliBIy                  No
